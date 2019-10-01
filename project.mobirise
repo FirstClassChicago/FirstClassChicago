@@ -32,6 +32,12 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.7",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/fc-light-128x128.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "siteUrl": "undefined",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
     "uniqCompNum": 2,
     "versionPublish": "4.10.7"
   },
@@ -39,8 +45,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "First Class",
+        "meta_descr": "Buy / Sell / Trade",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
